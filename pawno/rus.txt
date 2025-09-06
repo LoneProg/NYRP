@@ -1,0 +1,10 @@
+C:\Users\mappe\Desktop\NYRPs\pawno\include\nex-ac.inc(3645) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\mappe\Desktop\NYRPs\pawno\include\nex-ac.inc(3725) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\mappe\Desktop\NYRPs\pawno\include\nex-ac.inc(8624) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 2)
+C:\Users\mappe\Desktop\NYRPs\pawno\include\weapon-config.inc(953) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "total" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\mappe\Desktop\NYRPs\pawno\include\weapon-config.inc(990) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "total" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\mappe\Desktop\NYRPs\gamemodes\NYRPBeta.pwn(51519) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "total" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Îøèáîê:1.
